@@ -25,7 +25,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 ## Table of Contents
 
 - [Initialization](#Initialization)
-- [Configuration](#Configuration)（可选）
+- [Arbitration Mechanism and Refresh](#Arbitration Mechanism and Refresh)
 - [Usage](#Usage)
 - [API](#API)
 - [Contributing](#Contributing)
@@ -80,7 +80,24 @@ addr  :  12'b0000_0011_0010
 
 
 
-## Contributing
+## Arbitration Mechanism and Refresh 
+hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
