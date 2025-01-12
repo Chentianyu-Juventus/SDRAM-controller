@@ -42,7 +42,7 @@ For the initialization process, a delay of 200 µs is first required. Once the d
 
 
 
-##command
+## command
 
 ![image](https://github.com/user-attachments/assets/9647e808-89e0-4ff9-82ff-398a944cd7f8)
 
@@ -56,8 +56,11 @@ NOP:                          0             1              1             1
 
 Mode-Set:                     0             0              0             0
 
-## Configuration
 
+
+##  Mode register Configuration
+
+![image](https://github.com/user-attachments/assets/cb96247f-3e97-4a03-b31b-36fbe5c03957)
 
 
 
