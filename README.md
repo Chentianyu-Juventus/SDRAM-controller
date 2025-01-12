@@ -8,6 +8,7 @@ SDRAM (Synchronous Dynamic Random Access Memory) refers to a type of memory. Syn
 SDRAM Capacity (bits)=Data Width×Total Number of Storage Units(Row Address Count×Column Address Count×Number of Banks)
 
 this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
+![image](https://github.com/user-attachments/assets/e3723eab-7730-4e91-950e-6e4f435f8dd4)
 
 
 
@@ -19,7 +20,6 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 
 
-![image](https://github.com/user-attachments/assets/b6c00525-c111-483d-aade-bd9f990dc09e)
 
 
 ## Table of Contents
@@ -35,7 +35,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 ## Initialization
 
-![image](https://github.com/user-attachments/assets/e3723eab-7730-4e91-950e-6e4f435f8dd4)
+![image](https://github.com/user-attachments/assets/b6c00525-c111-483d-aade-bd9f990dc09e)
 
 
 
