@@ -14,6 +14,14 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 ![image](https://github.com/user-attachments/assets/e3723eab-7730-4e91-950e-6e4f435f8dd4)
 
 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b6c00525-c111-483d-aade-bd9f990dc09e)
+
+
 ## Table of Contents
 
 - [Install](#Install)
