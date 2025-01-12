@@ -1,12 +1,7 @@
 # SDRAM-controller
 
+SDRAM (Synchronous Dynamic Random Access Memory) refers to a type of memory. Synchronous means that the memory operates in synchronization with a clock signal, and the sending of commands and data transmission are based on this clock. Dynamic indicates that the storage array needs to be continuously refreshed to prevent data loss. This is because data in SDRAM is stored using capacitors, and as we know, capacitors naturally discharge over time. If the charge is completely discharged, the data in SDRAM will be lost. Therefore, SDRAM requires refreshing before the capacitors are fully discharged. Random means that the data is not stored sequentially in a linear order but is accessed by freely specifying an address for data read and write operations.
 
-
-[![license](https://camo.githubusercontent.com/4738d430387c93da0d49ef0428a7c7ddae18e81eaff99a014996d4f6b30fd3ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f3a757365722f3a7265706f2e737667)](https://github.com/RichardLitt/standard-readme/blob/main/example-readmes/LICENSE) [![standard-readme compliant](https://camo.githubusercontent.com/f116695412df39ab3c98d8291befdb93af123f56aecc79fff4b20c410a5b54c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726561646d652532307374796c652d7374616e646172642d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265)](https://github.com/RichardLitt/standard-readme)
-
-This is an example file with maximal choices selected.
-
-This is a long description.
 
 ## Table of Contents
 
