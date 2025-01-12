@@ -65,7 +65,7 @@ Mode-Set:                     0             0              0             0
 addr  :  12'b0000_0011_0010                              
 
 
-## Timing Diagram
+## Initial Timing Diagram
 
 ![image](https://github.com/user-attachments/assets/c356371c-4f7b-4520-828f-78433a1382c6)
 
