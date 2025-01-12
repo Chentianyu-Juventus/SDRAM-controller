@@ -79,7 +79,7 @@ addr  :  12'b0000_0011_0010
 
 
 
-## Arbitration Mechanism and Refresh 
+## Arbitration & Refresh
 hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
