@@ -86,6 +86,11 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
 
+![image](https://github.com/user-attachments/assets/65daf9e8-92e1-4fcf-a675-f72fd00e3a9a)
+
+
+
+
 
 
 
