@@ -74,6 +74,11 @@ addr  :  12'b0000_0011_0010
 
 
 
+## Simulation
+![image](https://github.com/user-attachments/assets/279ba957-5981-4920-8290-bcb2b105b955)
+
+
+
 
 ## Contributing
 
