@@ -5,6 +5,9 @@ SDRAM (Synchronous Dynamic Random Access Memory) refers to a type of memory. Syn
 ![image](https://github.com/user-attachments/assets/e71f5ee0-ff46-4d2a-9e8b-57a340ea2700)
 
 
+SDRAM Capacity (bits)=Data Width×Total Number of Storage Units(Row Address Count×Column Address Count×Number of Banks)
+
+
 
 ## Table of Contents
 
