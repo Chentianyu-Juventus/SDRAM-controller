@@ -11,7 +11,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 
 
-![image](https://github.com/user-attachments/assets/e3723eab-7730-4e91-950e-6e4f435f8dd4)
+
 
 
 
@@ -24,7 +24,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 ## Table of Contents
 
-- [Install](#Install)
+- [Initialization](#Initialization)
 - [Configuration](#Configuration)（可选）
 - [Usage](#Usage)
 - [API](#API)
@@ -33,15 +33,9 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 
 
-## Install
+## Initialization
 
-Using [npm](https://www.npmjs.org/), just run the following command:
-
-```
-npm install box-intersect
-```
-
-This module works in any reasonable CommonJS environment, such as browsersify, iojs or node.js.
+![image](https://github.com/user-attachments/assets/e3723eab-7730-4e91-950e-6e4f435f8dd4)
 
 
 
