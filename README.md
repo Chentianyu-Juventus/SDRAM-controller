@@ -41,12 +41,12 @@ For the initialization process, a delay of 200 µs is first required. Once the d
 
 
 
-## command
+## 1.command
 
 ![image](https://github.com/user-attachments/assets/9647e808-89e0-4ff9-82ff-398a944cd7f8)
 
 
-##  Mode register Configuration
+##  2.Mode register Configuration
 
 ![image](https://github.com/user-attachments/assets/cb96247f-3e97-4a03-b31b-36fbe5c03957)
 
@@ -64,7 +64,7 @@ Mode-Set:                     0             0              0             0
 addr  :  12'b0000_0011_0010                              
 
 
-## Initial Timing Diagram
+## 3.Initial Timing Diagram
 
 ![image](https://github.com/user-attachments/assets/c356371c-4f7b-4520-828f-78433a1382c6)
 
@@ -73,7 +73,7 @@ addr  :  12'b0000_0011_0010
 
 
 
-## Simulation
+## 4.Simulation
 ![image](https://github.com/user-attachments/assets/279ba957-5981-4920-8290-bcb2b105b955)
 
 
