@@ -47,8 +47,11 @@ command
 CMD                           CS           RAS            CAS            WE           
 
 Precharge:                    0             0              1             0
+
 A-Refresh:                    0             0              0             1
+
 NOP:                          0             1              1             1 
+
 Mode-Set:                     0             0              0             0
 
 ## Configuration
