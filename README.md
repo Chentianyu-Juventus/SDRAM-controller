@@ -37,6 +37,12 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 ![image](https://github.com/user-attachments/assets/b6c00525-c111-483d-aade-bd9f990dc09e)
 
+For the initialization process, a delay of 200 µs is first required. Once the delay is satisfied, a Precharge command is issued, followed by two Auto-refresh commands, and finally, the mode register configuration is performed.
+
+
+
+precharge
+![image](https://github.com/user-attachments/assets/9647e808-89e0-4ff9-82ff-398a944cd7f8)
 
 
 
