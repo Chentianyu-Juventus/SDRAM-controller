@@ -41,11 +41,15 @@ For the initialization process, a delay of 200 µs is first required. Once the d
 
 
 
-precharge
+
+command
 ![image](https://github.com/user-attachments/assets/9647e808-89e0-4ff9-82ff-398a944cd7f8)
+CMD                           CS           RAS            CAS            WE           
 
-
-
+Precharge:                    0             0              1             0
+A-Refresh:                    0             0              0             1
+NOP:                          0             1              1             1 
+Mode-Set:                     0             0              0             0
 
 ## Configuration
 
