@@ -103,13 +103,14 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
 ## 3.auto refresh simulation
-![image](https://github.com/user-attachments/assets/1bff05e8-4bd6-4275-9b6c-a1e8d97f571a)
+![image](https://github.com/user-attachments/assets/fca9e827-f051-4bb3-867d-4ec88556731a)
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/86105342-e3f8-47a5-ac88-43c3cceca6a9)
+![image](https://github.com/user-attachments/assets/7249c36f-1e50-4b4b-9d5c-b6b548cb6d73)
+
 
 
 
