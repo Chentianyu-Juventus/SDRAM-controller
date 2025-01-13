@@ -90,6 +90,10 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
 
+## 1.Arbitration module state machine
+
+![image](https://github.com/user-attachments/assets/836bc428-201f-4561-b858-817e3ecdec10)
+
 
 
 
