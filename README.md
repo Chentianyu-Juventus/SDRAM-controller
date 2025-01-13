@@ -96,6 +96,8 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
 
+## 2.auto refresh cycle
+![image](https://github.com/user-attachments/assets/37f061e3-aada-41c8-a79f-924d9512833f)
 
 
 
