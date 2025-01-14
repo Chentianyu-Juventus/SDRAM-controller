@@ -128,4 +128,9 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 
 
 
-## License
+## Write
+
+
+## 1.Sequence Diagram
+![image](https://github.com/user-attachments/assets/f9751c02-ea54-49e7-8f7c-adf3cf9341b4)
+
