@@ -26,9 +26,19 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 
 - [Initialization](#Initialization)
 - [Arbitration](#Arbitration)
-- [API](#API)
+- [Write](#Write)
 - [Contributing](#Contributing)
 - [License](#License)
+
+
+![image](https://github.com/user-attachments/assets/9dfaba72-a7b7-4b86-b4e6-61632cd28d9e)
+
+
+
+
+
+
+
 
 
 
