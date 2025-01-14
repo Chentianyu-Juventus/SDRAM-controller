@@ -134,3 +134,31 @@ hynix 4096 Refresh cycles / 64ms (AO-A11 address: 2^12)
 ## 1.Sequence Diagram
 ![image](https://github.com/user-attachments/assets/f9751c02-ea54-49e7-8f7c-adf3cf9341b4)
 
+
+Assume we need to write two rows of data into the SDRAM. Under what conditions can the arbitration state machine exit the write state:
+
+1.The data has been fully written;
+2.The SDRAM needs to perform a refresh operation;
+3.The data is not fully written, and the next row needs to be activated for writing.
+
+
+## 2.Sequence Diagram
+
+![image](https://github.com/user-attachments/assets/e0cfd45c-d1b3-464a-993c-fc0d89e89d3f)
+
+
+
+
+
+
+
+
+## 3.Write module Timing design
+![image](https://github.com/user-attachments/assets/445c3314-7f19-46ed-8c3c-1dcf27bece70)
+
+
+
+## 4.Write command Timing design
+![image](https://github.com/user-attachments/assets/381dbb8c-05ea-4a14-87af-86f798961805)
+
+
