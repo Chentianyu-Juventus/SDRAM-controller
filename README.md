@@ -175,6 +175,16 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 
 
 ## Cmd_decode
+## 1.Sequence Diagram
+
+
+![image](https://github.com/user-attachments/assets/72337410-ad21-4ea1-a9c1-341af530185f)
+
+
+
+
+
+## 2.cmd_decode simulation
 
 
 
