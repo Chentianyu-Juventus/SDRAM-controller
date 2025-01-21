@@ -214,7 +214,8 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 ## 2.reaad SDRAM timing design
 
 
-![image](https://github.com/user-attachments/assets/228d7a5e-d3ae-4bd6-89d8-0a42646298a7)
+![image](https://github.com/user-attachments/assets/dfcbd6c9-6736-4a57-a2bc-ab21047bc80e)
+
 
 
 
