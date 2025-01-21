@@ -35,7 +35,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 - [Initialization](#Initialization)
 - [Arbitration](#Arbitration)
 - [Write](#Write)
-- [Contributing](#Contributing)
+- [Cmd_decode](#Cmd_decode)
 - [License](#License)
 
 
@@ -169,4 +169,14 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 ## 4.Write command Timing design
 ![image](https://github.com/user-attachments/assets/381dbb8c-05ea-4a14-87af-86f798961805)
 
+
+
+
+
+
+## Cmd_decode
+
+
+
+![image](https://github.com/user-attachments/assets/d1538cfa-86bf-4647-8b38-20b4a0070231)
 
