@@ -177,8 +177,8 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 ## Cmd_decode
 ## 1.Sequence Diagram
 
+![image](https://github.com/user-attachments/assets/583837e8-c357-4ae6-a3e4-bbe8de501215)
 
-![image](https://github.com/user-attachments/assets/72337410-ad21-4ea1-a9c1-341af530185f)
 
 
 
