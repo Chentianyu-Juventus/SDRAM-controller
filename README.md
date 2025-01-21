@@ -199,9 +199,31 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 
 
 ## FIFO
-## 1.reason to use FIFO
+
 1.Writing to DRAM :sending 4 bytes of data via the serial port takes too long, while writing data to SDRAM is extremely fast. Therefore, FIFO buffering needs to be used to write the data.
 2.Reading from SDRAM: Data read from SDRAM needs to be sent to the host computer. Since the SDRAM read speed is much faster than the serial port's data transmission rate, a FIFO buffer is required to store the data read from SDRAM.
+
+
+## 1.write SDRAM timing design
+
+
+![image](https://github.com/user-attachments/assets/b1e9fa4c-e034-4408-9402-50a6280ad523)
+
+
+
+## 2.reaad SDRAM timing design
+
+
+![image](https://github.com/user-attachments/assets/228d7a5e-d3ae-4bd6-89d8-0a42646298a7)
+
+
+
+
+
+
+
+
+
 
 
 
