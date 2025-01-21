@@ -36,7 +36,7 @@ this design is based on hynix 128Mb Synchronous DRAM (2M x 4Bank x 16 bits I/O)
 - [Arbitration](#Arbitration)
 - [Write](#Write)
 - [Cmd_decode](#Cmd_decode)
-- [License](#License)
+- [FIFO](#FIFO)
 
 
 ![image](https://github.com/user-attachments/assets/9dfaba72-a7b7-4b86-b4e6-61632cd28d9e)
@@ -189,4 +189,20 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 
 
 ![image](https://github.com/user-attachments/assets/d1538cfa-86bf-4647-8b38-20b4a0070231)
+
+
+
+
+
+
+
+
+
+## FIFO
+## 1.reason to use FIFO
+1.Writing to DRAM :sending 4 bytes of data via the serial port takes too long, while writing data to SDRAM is extremely fast. Therefore, FIFO buffering needs to be used to write the data.
+2.Reading from SDRAM: Data read from SDRAM needs to be sent to the host computer. Since the SDRAM read speed is much faster than the serial port's data transmission rate, a FIFO buffer is required to store the data read from SDRAM.
+
+
+
 
