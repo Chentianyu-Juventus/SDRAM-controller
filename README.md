@@ -219,6 +219,12 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 
 
 
+## 3.FIFO design
+
+
+![image](https://github.com/user-attachments/assets/722b264b-7a77-450a-86d0-2b1e5024aa3b)
+
+
 
 
 
