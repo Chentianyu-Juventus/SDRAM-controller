@@ -255,9 +255,11 @@ clk = 50Mhz (same clk)
 ## 2.Fitter(Place & Route)
 ![image](https://github.com/user-attachments/assets/49d26450-d5f0-4717-90cd-ceb403d42cdd)
 
+![image](https://github.com/user-attachments/assets/688a1bfd-69be-4b83-8b02-7476d192c40e)
 
 
 
+![image](https://github.com/user-attachments/assets/fa01e8e7-bd93-45a1-92c8-0feacfd7c3ea)
 
 
 
