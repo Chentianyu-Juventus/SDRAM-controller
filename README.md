@@ -37,8 +37,7 @@ clk = 50Mhz
 - [Write](#Write)
 - [Cmd_decode](#Cmd_decode)
 - [FIFO](#FIFO)
-- [Synthesis](#Synthesis)
-
+- [FPGA](#FPGA)
 
 ![image](https://github.com/user-attachments/assets/9dfaba72-a7b7-4b86-b4e6-61632cd28d9e)
 
@@ -232,9 +231,9 @@ clk = 50Mhz (same clk)
 
 
 
-## 1.Synthesis
+## FPGA
 
-## 1.modify
+## modify
 ![image](https://github.com/user-attachments/assets/856394dd-7951-423a-8b34-b8c6a69ab77b)
 
 ![image](https://github.com/user-attachments/assets/aefea7b2-4b0b-48f8-a9a5-aeefbc5e870a)
