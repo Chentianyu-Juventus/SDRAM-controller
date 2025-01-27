@@ -37,6 +37,7 @@ clk = 50Mhz
 - [Write](#Write)
 - [Cmd_decode](#Cmd_decode)
 - [FIFO](#FIFO)
+- [Synthesis](#Synthesis)
 
 
 ![image](https://github.com/user-attachments/assets/9dfaba72-a7b7-4b86-b4e6-61632cd28d9e)
@@ -225,6 +226,15 @@ Assume we need to write two rows of data into the SDRAM. Under what conditions c
 ![image](https://github.com/user-attachments/assets/722b264b-7a77-450a-86d0-2b1e5024aa3b)
 
 
+clk = 50Mhz (same clk)
+
+
+
+
+
+## Synthesis
+
+![image](https://github.com/user-attachments/assets/90ab89ae-de3a-45f0-8382-c774f293cc40)
 
 
 
