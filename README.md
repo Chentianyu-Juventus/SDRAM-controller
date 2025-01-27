@@ -234,8 +234,14 @@ clk = 50Mhz (same clk)
 
 ## Synthesis
 
-![image](https://github.com/user-attachments/assets/90ab89ae-de3a-45f0-8382-c774f293cc40)
+## 1.modify
+![image](https://github.com/user-attachments/assets/856394dd-7951-423a-8b34-b8c6a69ab77b)
 
+![image](https://github.com/user-attachments/assets/aefea7b2-4b0b-48f8-a9a5-aeefbc5e870a)
+
+
+modify (if-else)
+![image](https://github.com/user-attachments/assets/318138ab-76bf-4fdb-9143-93cb4bc5a942)
 
 
 
