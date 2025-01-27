@@ -229,6 +229,12 @@ clk = 50Mhz (same clk)
 
 
 
+## 4.simulation
+![image](https://github.com/user-attachments/assets/f83edf1e-eec6-4fc6-be06-18c48eb374ca)
+
+
+
+
 
 
 ## FPGA
