@@ -232,7 +232,7 @@ clk = 50Mhz (same clk)
 
 
 
-## Synthesis
+## 1.Synthesis
 
 ## 1.modify
 ![image](https://github.com/user-attachments/assets/856394dd-7951-423a-8b34-b8c6a69ab77b)
@@ -244,6 +244,10 @@ modify (if-else)
 ![image](https://github.com/user-attachments/assets/318138ab-76bf-4fdb-9143-93cb4bc5a942)
 
 
+
+
+## 2.Fitter(Place & Route)
+![image](https://github.com/user-attachments/assets/49d26450-d5f0-4717-90cd-ceb403d42cdd)
 
 
 
